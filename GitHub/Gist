@@ -1,0 +1,32 @@
+## Gists
+
+Gists are a GitHub feature for sharing small code snippets, notes, or files quickly without creating a full repository.
+
+**What they are:**
+
+- Lightweight repositories (yes, they're actually Git repositories under the hood)
+- Designed for sharing individual files or small collections of files
+- Can be public or secret (not private - important distinction)
+- Each Gist gets its own URL
+- Support version control - you can see edit history
+- Can be forked, cloned, and embedded in web pages
+- Support comments from other users
+
+**Public vs Secret Gists:**
+
+- **Public**: Discoverable, show up in search, appear on your profile
+- **Secret**: Not discoverable or searchable, but NOT encrypted or truly private. Anyone with the URL can access it. Don't put passwords or sensitive data here.
+
+**Common use cases:**
+
+- Sharing code snippets in discussions or documentation
+- Quick notes or to-do lists
+- Configuration files you want to reference across machines
+- Code examples for teaching or troubleshooting
+- Embedding code snippets in blogs or websites
+
+**What Gists are NOT:**
+
+- Not a replacement for proper repositories with multiple collaborators
+- Not secure storage (even secret Gists are accessible if someone has the link)
+- Not meant for full projects with multiple directories and complex structure
