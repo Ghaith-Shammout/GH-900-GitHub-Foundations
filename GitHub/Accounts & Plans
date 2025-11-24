@@ -15,3 +15,40 @@ Personal accounts can either be GitHub Free or GitHub Pro, where Free account is
 ### Type II - GitHub Pro for personal accounts
 ### Type III - GitHub Team
 ### Type IV - GitHub Enterprise
+
+
+---
+config:
+  theme: redux-color
+---
+mindmap
+  root((GitHub Accounts & Plans))
+    Accounts
+      Personal
+        - Identity on GitHub.com
+        - Owns repos, packages, projects
+        - Actions attributed to user
+        - Plans: Free, Pro
+      Organization
+        - Shared account for collaboration
+        - Tiered permissions
+        - Members use personal accounts
+        - Plans: Free, Team
+      Enterprise
+        - Central policy & billing management
+        - Manages multiple organizations
+        - Inner sourcing enabled
+        - Plan: Enterprise
+    Plans
+      Free
+        - Personal: unlimited repos, limited private features
+        - Organization: unlimited repos, limited private features
+      Pro
+        - Advanced tools for individuals
+        - More Actions minutes & Codespaces
+      Team
+        - For organizations
+        - Enhanced collaboration & security
+      Enterprise
+        - For enterprises
+        - Advanced security, compliance, deployment
