@@ -17,8 +17,8 @@ The **GitHub Codespaces lifecycle** describes the stages a codespace goes throug
     *   Default settings if no configuration exists.
 
 You can create a Codespace:
-* From a GitHub Codespaces template (or any template repo) – for starting a brand‑new project. [docs.github.com]
-* From a branch in a repository – the standard “Code → Codespaces → New codespace” flow lets you pick the branch. [docs.github.com]
+* From a GitHub Codespaces template (or any template repo) – for starting a brand‑new project. [GitHub](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-from-a-template)
+* From a branch in a repository – the standard “Code → Codespaces → New codespace” flow lets you pick the branch. [GitHub](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository)
 * From an open pull request – GitHub adds a Codespaces button on PRs to open a codespace on the PR’s topic branch. [docs.github.com]
 
 ***
